@@ -1,0 +1,7 @@
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\bin\Debug\tratamento de exceções.exe.config
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\bin\Debug\tratamento de exceções.exe
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\bin\Debug\tratamento de exceções.pdb
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\obj\Debug\tratamento de exceções.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\obj\Debug\tratamento de exceções.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\obj\Debug\tratamento de exceções.exe
+C:\Users\assue\Desktop\tratamento de exceções\tratamento de exceções\obj\Debug\tratamento de exceções.pdb
